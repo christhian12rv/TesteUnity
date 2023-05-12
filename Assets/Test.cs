@@ -5,10 +5,11 @@ using UnityEngine;
 public class Test : MonoBehaviour
 {
     int test = 1;
+    int kadabra = 25;
     // Start is called before the first frame update
     void Start()
     {
-        test = 3;
+        test = 215;
     }
 
     // Update is called once per frame
