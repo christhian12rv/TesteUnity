@@ -10,6 +10,7 @@ public class Test : MonoBehaviour
     void Start()
     {
         test = 225;
+        int adamastor = 323;
     }
 
     // Update is called once per frame
