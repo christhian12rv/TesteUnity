@@ -11,6 +11,11 @@ public class Test : MonoBehaviour
     {
         test = 225;
         int adamastor = 323;
+        test = 312312312;
+        string test = "asdfdasf";
+
+
+        int pjoqweropqeowjr = 'a';
     }
 
     // Update is called once per frame
